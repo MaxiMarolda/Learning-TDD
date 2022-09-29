@@ -1,11 +1,13 @@
 {
+  "name": "aprende-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
   "devDependencies": {
     "standard": "^17.0.0",
     "vitest": "^0.23.4"
   },
-  "name": "aprende-tdd",
-  "version": "1.0.0",
-  "main": "index.js",
   "dependencies": {
     "acorn": "^8.8.0",
     "assertion-error": "^1.1.0",
@@ -45,7 +47,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
   }
